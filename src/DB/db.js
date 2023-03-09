@@ -13,5 +13,5 @@ export const pool = createPool({
     user: DB_USER,
     password: DB_PASS,
     port: DB_PORT,
-    database: DB_DATABASE,
+    database: DB_DATABASE
 })
